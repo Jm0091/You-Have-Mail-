@@ -1,5 +1,4 @@
 // Project - YouHaveMail! (By: Jems Chaudhary)
-// Link for the Video: https://youtu.be/nDGt8yh9p-M  (unlisted-YouTube)
 
 /**
  *  Created a battery-powered IoT device using an ESP8266 to detect mailbox activity, demonstrated interest in smart home applications.
